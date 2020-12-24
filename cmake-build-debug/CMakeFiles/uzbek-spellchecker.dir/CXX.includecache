@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/levenshtein.h
+iostream
+-
+
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/main.cpp
+iostream
+-
+map
+-
+fstream
+-
+soundex.h
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/soundex.h
+levenshtein.h
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/levenshtein.h
+
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/soundex.h
+string
+-
+
