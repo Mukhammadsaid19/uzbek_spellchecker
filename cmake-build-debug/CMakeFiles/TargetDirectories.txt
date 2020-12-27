@@ -1,3 +1,0 @@
-D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir
-D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
