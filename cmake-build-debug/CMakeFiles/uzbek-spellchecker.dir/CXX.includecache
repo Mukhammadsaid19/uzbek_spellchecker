@@ -6,8 +6,28 @@
 
 #IncludeRegexTransform: 
 
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/LinkedList.h
+iostream
+-
+utility
+-
+
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/lemmatizer.h
+iostream
+-
+LinkedList.h
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/LinkedList.h
+vector
+-
+
 D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/levenshtein.h
 iostream
+-
+
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/loader.h
+iostream
+-
+map
 -
 
 D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/main.cpp
@@ -21,8 +41,36 @@ soundex.h
 D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/soundex.h
 levenshtein.h
 D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/levenshtein.h
+tokenizer.h
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/tokenizer.h
+loader.h
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/loader.h
+lemmatizer.h
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/lemmatizer.h
+LinkedList.h
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/LinkedList.h
+permutations.h
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/permutations.h
+bits/stdc++.h
+-
+regex
+-
+
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/permutations.h
+iostream
+-
+LinkedList.h
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/LinkedList.h
+vector
+-
 
 D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/soundex.h
+string
+-
+
+D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/tokenizer.h
+vector
+-
 string
 -
 

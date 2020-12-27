@@ -115,11 +115,81 @@ CMakeFiles/uzbek-spellchecker.dir/sources/levenshtein.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uzbek-spellchecker.dir/sources/levenshtein.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\levenshtein.cpp" -o CMakeFiles\uzbek-spellchecker.dir\sources\levenshtein.cpp.s
 
+CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.obj: CMakeFiles/uzbek-spellchecker.dir/flags.make
+CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.obj: ../sources/tokenizer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Sophomore Fall\Data Structure\uzbek_spellchecker\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\uzbek-spellchecker.dir\sources\tokenizer.cpp.obj -c "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\tokenizer.cpp"
+
+CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\tokenizer.cpp" > CMakeFiles\uzbek-spellchecker.dir\sources\tokenizer.cpp.i
+
+CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\tokenizer.cpp" -o CMakeFiles\uzbek-spellchecker.dir\sources\tokenizer.cpp.s
+
+CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.obj: CMakeFiles/uzbek-spellchecker.dir/flags.make
+CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.obj: ../sources/lemmatizer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Sophomore Fall\Data Structure\uzbek_spellchecker\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\uzbek-spellchecker.dir\sources\lemmatizer.cpp.obj -c "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\lemmatizer.cpp"
+
+CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\lemmatizer.cpp" > CMakeFiles\uzbek-spellchecker.dir\sources\lemmatizer.cpp.i
+
+CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\lemmatizer.cpp" -o CMakeFiles\uzbek-spellchecker.dir\sources\lemmatizer.cpp.s
+
+CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.obj: CMakeFiles/uzbek-spellchecker.dir/flags.make
+CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.obj: ../sources/loader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Sophomore Fall\Data Structure\uzbek_spellchecker\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\uzbek-spellchecker.dir\sources\loader.cpp.obj -c "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\loader.cpp"
+
+CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\loader.cpp" > CMakeFiles\uzbek-spellchecker.dir\sources\loader.cpp.i
+
+CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\loader.cpp" -o CMakeFiles\uzbek-spellchecker.dir\sources\loader.cpp.s
+
+CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.obj: CMakeFiles/uzbek-spellchecker.dir/flags.make
+CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.obj: ../sources/LinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Sophomore Fall\Data Structure\uzbek_spellchecker\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\uzbek-spellchecker.dir\sources\LinkedList.cpp.obj -c "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\LinkedList.cpp"
+
+CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\LinkedList.cpp" > CMakeFiles\uzbek-spellchecker.dir\sources\LinkedList.cpp.i
+
+CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\LinkedList.cpp" -o CMakeFiles\uzbek-spellchecker.dir\sources\LinkedList.cpp.s
+
+CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.obj: CMakeFiles/uzbek-spellchecker.dir/flags.make
+CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.obj: ../sources/permutations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Sophomore Fall\Data Structure\uzbek_spellchecker\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\uzbek-spellchecker.dir\sources\permutations.cpp.obj -c "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\permutations.cpp"
+
+CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\permutations.cpp" > CMakeFiles\uzbek-spellchecker.dir\sources\permutations.cpp.i
+
+CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Sophomore Fall\Data Structure\uzbek_spellchecker\sources\permutations.cpp" -o CMakeFiles\uzbek-spellchecker.dir\sources\permutations.cpp.s
+
 # Object files for target uzbek-spellchecker
 uzbek__spellchecker_OBJECTS = \
 "CMakeFiles/uzbek-spellchecker.dir/sources/main.cpp.obj" \
 "CMakeFiles/uzbek-spellchecker.dir/sources/soundex.cpp.obj" \
-"CMakeFiles/uzbek-spellchecker.dir/sources/levenshtein.cpp.obj"
+"CMakeFiles/uzbek-spellchecker.dir/sources/levenshtein.cpp.obj" \
+"CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.obj" \
+"CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.obj" \
+"CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.obj" \
+"CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.obj" \
+"CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.obj"
 
 # External object files for target uzbek-spellchecker
 uzbek__spellchecker_EXTERNAL_OBJECTS =
@@ -127,11 +197,16 @@ uzbek__spellchecker_EXTERNAL_OBJECTS =
 uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/sources/main.cpp.obj
 uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/sources/soundex.cpp.obj
 uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/sources/levenshtein.cpp.obj
+uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.obj
+uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.obj
+uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.obj
+uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.obj
+uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.obj
 uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/build.make
 uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/linklibs.rsp
 uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/objects1.rsp
 uzbek-spellchecker.exe: CMakeFiles/uzbek-spellchecker.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Sophomore Fall\Data Structure\uzbek_spellchecker\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable uzbek-spellchecker.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Sophomore Fall\Data Structure\uzbek_spellchecker\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable uzbek-spellchecker.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\uzbek-spellchecker.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

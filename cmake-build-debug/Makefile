@@ -142,6 +142,60 @@ uzbek-spellchecker/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/build
 .PHONY : uzbek-spellchecker/fast
 
+sources/LinkedList.obj: sources/LinkedList.cpp.obj
+
+.PHONY : sources/LinkedList.obj
+
+# target to build an object file
+sources/LinkedList.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.obj
+.PHONY : sources/LinkedList.cpp.obj
+
+sources/LinkedList.i: sources/LinkedList.cpp.i
+
+.PHONY : sources/LinkedList.i
+
+# target to preprocess a source file
+sources/LinkedList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.i
+.PHONY : sources/LinkedList.cpp.i
+
+sources/LinkedList.s: sources/LinkedList.cpp.s
+
+.PHONY : sources/LinkedList.s
+
+# target to generate assembly for a file
+sources/LinkedList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.s
+.PHONY : sources/LinkedList.cpp.s
+
+sources/lemmatizer.obj: sources/lemmatizer.cpp.obj
+
+.PHONY : sources/lemmatizer.obj
+
+# target to build an object file
+sources/lemmatizer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.obj
+.PHONY : sources/lemmatizer.cpp.obj
+
+sources/lemmatizer.i: sources/lemmatizer.cpp.i
+
+.PHONY : sources/lemmatizer.i
+
+# target to preprocess a source file
+sources/lemmatizer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.i
+.PHONY : sources/lemmatizer.cpp.i
+
+sources/lemmatizer.s: sources/lemmatizer.cpp.s
+
+.PHONY : sources/lemmatizer.s
+
+# target to generate assembly for a file
+sources/lemmatizer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.s
+.PHONY : sources/lemmatizer.cpp.s
+
 sources/levenshtein.obj: sources/levenshtein.cpp.obj
 
 .PHONY : sources/levenshtein.obj
@@ -168,6 +222,33 @@ sources/levenshtein.s: sources/levenshtein.cpp.s
 sources/levenshtein.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/levenshtein.cpp.s
 .PHONY : sources/levenshtein.cpp.s
+
+sources/loader.obj: sources/loader.cpp.obj
+
+.PHONY : sources/loader.obj
+
+# target to build an object file
+sources/loader.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.obj
+.PHONY : sources/loader.cpp.obj
+
+sources/loader.i: sources/loader.cpp.i
+
+.PHONY : sources/loader.i
+
+# target to preprocess a source file
+sources/loader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.i
+.PHONY : sources/loader.cpp.i
+
+sources/loader.s: sources/loader.cpp.s
+
+.PHONY : sources/loader.s
+
+# target to generate assembly for a file
+sources/loader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.s
+.PHONY : sources/loader.cpp.s
 
 sources/main.obj: sources/main.cpp.obj
 
@@ -196,6 +277,33 @@ sources/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/main.cpp.s
 .PHONY : sources/main.cpp.s
 
+sources/permutations.obj: sources/permutations.cpp.obj
+
+.PHONY : sources/permutations.obj
+
+# target to build an object file
+sources/permutations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.obj
+.PHONY : sources/permutations.cpp.obj
+
+sources/permutations.i: sources/permutations.cpp.i
+
+.PHONY : sources/permutations.i
+
+# target to preprocess a source file
+sources/permutations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.i
+.PHONY : sources/permutations.cpp.i
+
+sources/permutations.s: sources/permutations.cpp.s
+
+.PHONY : sources/permutations.s
+
+# target to generate assembly for a file
+sources/permutations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.s
+.PHONY : sources/permutations.cpp.s
+
 sources/soundex.obj: sources/soundex.cpp.obj
 
 .PHONY : sources/soundex.obj
@@ -223,6 +331,33 @@ sources/soundex.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/soundex.cpp.s
 .PHONY : sources/soundex.cpp.s
 
+sources/tokenizer.obj: sources/tokenizer.cpp.obj
+
+.PHONY : sources/tokenizer.obj
+
+# target to build an object file
+sources/tokenizer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.obj
+.PHONY : sources/tokenizer.cpp.obj
+
+sources/tokenizer.i: sources/tokenizer.cpp.i
+
+.PHONY : sources/tokenizer.i
+
+# target to preprocess a source file
+sources/tokenizer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.i
+.PHONY : sources/tokenizer.cpp.i
+
+sources/tokenizer.s: sources/tokenizer.cpp.s
+
+.PHONY : sources/tokenizer.s
+
+# target to generate assembly for a file
+sources/tokenizer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uzbek-spellchecker.dir\build.make CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.s
+.PHONY : sources/tokenizer.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -232,15 +367,30 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... uzbek-spellchecker
+	@echo ... sources/LinkedList.obj
+	@echo ... sources/LinkedList.i
+	@echo ... sources/LinkedList.s
+	@echo ... sources/lemmatizer.obj
+	@echo ... sources/lemmatizer.i
+	@echo ... sources/lemmatizer.s
 	@echo ... sources/levenshtein.obj
 	@echo ... sources/levenshtein.i
 	@echo ... sources/levenshtein.s
+	@echo ... sources/loader.obj
+	@echo ... sources/loader.i
+	@echo ... sources/loader.s
 	@echo ... sources/main.obj
 	@echo ... sources/main.i
 	@echo ... sources/main.s
+	@echo ... sources/permutations.obj
+	@echo ... sources/permutations.i
+	@echo ... sources/permutations.s
 	@echo ... sources/soundex.obj
 	@echo ... sources/soundex.i
 	@echo ... sources/soundex.s
+	@echo ... sources/tokenizer.obj
+	@echo ... sources/tokenizer.i
+	@echo ... sources/tokenizer.s
 .PHONY : help
 
 

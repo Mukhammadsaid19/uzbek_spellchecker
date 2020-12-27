@@ -82,19 +82,49 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/LinkedList.cpp">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/LinkedList.h">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/lemmatizer.cpp">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/lemmatizer.h">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
 		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/levenshtein.cpp">
 			<Option target="uzbek-spellchecker"/>
 		</Unit>
 		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/levenshtein.h">
 			<Option target="uzbek-spellchecker"/>
 		</Unit>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/loader.cpp">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/loader.h">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
 		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/main.cpp">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/permutations.cpp">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/permutations.h">
 			<Option target="uzbek-spellchecker"/>
 		</Unit>
 		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/soundex.cpp">
 			<Option target="uzbek-spellchecker"/>
 		</Unit>
 		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/soundex.h">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/tokenizer.cpp">
+			<Option target="uzbek-spellchecker"/>
+		</Unit>
+		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/tokenizer.h">
 			<Option target="uzbek-spellchecker"/>
 		</Unit>
 		<Unit filename="D:/Sophomore Fall/Data Structure/uzbek_spellchecker/CMakeLists.txt">

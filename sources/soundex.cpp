@@ -45,6 +45,7 @@ string Soundex(string input)
             case 'K':
             case 'Q':
             case 'S':
+            case 'H':
             case 'X':
             case 'Z':
                 i = '2';
@@ -77,8 +78,8 @@ string Soundex(string input)
     //e.g. 4444 -> 4
     intermediateResult.erase(std::unique(intermediateResult.begin(), intermediateResult.end()), intermediateResult.end()); //https://stackoverflow.com/a/26706133/10304482
 
-    //4. Delete a, e, i, o, u, y execept first letter
-    //Since we need to delete letters execpt first letter we start from index 1
+    //4. Delete a, e, i, o, u, y except first letter
+    //Since we need to delete letters except first letter we start from index 1
 
     vector<char> temp; //String without elements a, e, i, o, u, y
     for (char & i : intermediateResult)

@@ -4,9 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/LinkedList.cpp" "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir/sources/LinkedList.cpp.obj"
+  "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/lemmatizer.cpp" "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir/sources/lemmatizer.cpp.obj"
   "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/levenshtein.cpp" "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir/sources/levenshtein.cpp.obj"
+  "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/loader.cpp" "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir/sources/loader.cpp.obj"
   "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/main.cpp" "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir/sources/main.cpp.obj"
+  "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/permutations.cpp" "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir/sources/permutations.cpp.obj"
   "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/soundex.cpp" "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir/sources/soundex.cpp.obj"
+  "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/sources/tokenizer.cpp" "D:/Sophomore Fall/Data Structure/uzbek_spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir/sources/tokenizer.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
