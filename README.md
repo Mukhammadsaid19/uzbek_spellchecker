@@ -23,3 +23,16 @@ qishgacha
 ----------------
 qish -> ga -> cha
 ```
+
+## Cons
+
+Since we use specific algorithms that don't apply to Uzbek generally, our efficiency is not as desired. For example:
+```
+sovunmish
+----------------
+shovun -> i -> ga
+```
+
+We entered the word "sovunmish", meaning "it turns out it is a soap", and got completely different parsing. Our Levenshtein algorithm is not suitable for this purpose, another better approach could me to use "minimum edit distance". 
+
+Another one:
