@@ -95,7 +95,7 @@ string getLemma(const string& lexeme) {
 //        cout << lemm.second << " - " << lemm.first << endl;
 //    }
 
-    auto maxLemma = lemmaWords.begin();
+    auto maxLemma = lemmaWords.begin().operator++();
     int maxLength = lemma->second.size();
     for (auto affix = lemmaWords.begin(); affix != lemmaWords.end(); ++affix){
 //        cout << affix->second << endl;

@@ -51,6 +51,7 @@ dagi
 gacha
 ligi
 cha
+mish
 chalik
 dek
 day

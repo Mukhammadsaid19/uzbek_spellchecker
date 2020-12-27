@@ -23,6 +23,8 @@ int main() {
     string userWord;
     cin >> userWord;
 
+    cout << "----------------" << endl;
+
     lemmatize(userWord);
 
     return 0;
