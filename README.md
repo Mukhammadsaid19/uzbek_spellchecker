@@ -35,4 +35,6 @@ shovun -> i -> ga
 
 We entered the word "sovunmish", meaning "it turns out it is a soap", and got completely different parsing. Our Levenshtein algorithm is not suitable for this purpose, another better approach could me to use "minimum edit distance". 
 
-Another one:
+## Technical Description
+
+From a linguistic point of view, it is a stemmer. Although the classical mechanism of stemmers is suitable for flexible languages, it can be similarly expanded to agglutinative languages, like Uzbek. 
